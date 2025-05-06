@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "41333975428",
+    "project_id": "soul-music-64c99",
+    "storage_bucket": "soul-music-64c99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41333975428:android:812f91ed8101fb463995d1",
+        "android_client_info": {
+          "package_name": "net.branium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41333975428-vh13t6qdr752l607m4bd8ehnc76h7n4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.branium",
+            "certificate_hash": "fefae5ef0caf359a5f5ac73b10878264d4f3629f"
+          }
+        },
+        {
+          "client_id": "41333975428-s0f62era7i1uujcphvte64dbn3cjfp4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtzOH_9_DRzwr9fGZJJniw78cB-yLAySQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41333975428-s0f62era7i1uujcphvte64dbn3cjfp4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
